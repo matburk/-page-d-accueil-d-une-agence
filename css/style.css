@@ -992,6 +992,19 @@ nav a:hover {
         padding: 30px 20px;
     }
 
+    .populaires-cards {
+        flex-direction: column;
+        gap: 0.9375rem;
+    }
+    
+    .populaires-cards {
+        width: 100%;
+    } 
+    
+    .populaires-cards .card {
+        width: 100%;
+    }
+
     .card {
     width: 98%;
     height: 146px;
